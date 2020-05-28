@@ -11,5 +11,5 @@ Create an introductory data visualisation using R and the tidyverse.
 * Imported visualisation into Adobe Illustrator to further tweak the aesthetics of the visualisation.
 
 # References
-http://naturalstattrick.com/
-https://www.r-graph-gallery.com/
+* http://naturalstattrick.com/
+* https://www.r-graph-gallery.com/
